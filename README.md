@@ -3,7 +3,7 @@ The Power of Plots
 
 Pyber
 
-The ride sharing bonanza continues! Seeing the success of notable players like Uber and Lyft, Pyber decided to join a fledgling ride sharing journey.
+Seeing the success of notable players like Uber and Lyft, Pyber decided to join a fledgling ride sharing journey.
 
 We used the company's complete recordset of ridescontains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
